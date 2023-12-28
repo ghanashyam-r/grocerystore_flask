@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block title %}
+Add Item
+{% endblock %}
+{% block content %}
+  <h1>Add Item</h1>
+
+<form method="post" class="form">
+    <div class="vstack gap-3">
+        <div class="p-2">  <label for="name">Name:
+            <input type="text" name="name" class="form-control" required>
+        </label></div>
+        <div class="p-2"> <label for="price">Price:
+            <input type="text" name="price" class="form-control" required>
+        </label></div>
+        <div class="p-2">  <label for="Quantity">Quantity:
+            <input type="text" name="quantity" class="form-control" required>
+        </label>    </div>
+        <div class="p-2"> <label for="expdate">Expiry Date:
+            <input type="text" name="expdate" class="form-control" required>
+        </label></div>
+        <div class="p-2"> <label for="category">Category:
+            <input type="text" name="category" class="form-control" required>
+        </label></div>
+      </div>
+      <div class="p-2"><button type="submit" class="btn btn-primary">Add Item</button>   </div> 
+        
+   
+  
+   
+   
+     
+
+{% endblock %}
