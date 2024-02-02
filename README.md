@@ -45,4 +45,8 @@ Features implemented include:
   ● Inventory and Product Management: Admin can add, edit, and delete items and categories
   ● Order Processing: Search for sections and buy products from one or multiple sections
 
+<img width="1437" alt="Screenshot 2024-02-02 at 10 29 25 PM" src="https://github.com/ghanashyam-r/grocerystore_flask/assets/138144872/f4918784-dca3-4eea-88eb-9660b7a5bd1b">
+<img width="1438" alt="Screenshot 2024-02-02 at 10 30 30 PM" src="https://github.com/ghanashyam-r/grocerystore_flask/assets/138144872/5727565b-3f82-4f82-92dc-b06c143409a3">
+
+
     
