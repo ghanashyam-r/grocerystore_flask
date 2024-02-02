@@ -45,8 +45,12 @@ Features implemented include:
   ● Inventory and Product Management: Admin can add, edit, and delete items and categories
   ● Order Processing: Search for sections and buy products from one or multiple sections
 
+User Dashboard UI:
 <img width="1437" alt="Screenshot 2024-02-02 at 10 29 25 PM" src="https://github.com/ghanashyam-r/grocerystore_flask/assets/138144872/f4918784-dca3-4eea-88eb-9660b7a5bd1b">
+
+Admin Dashboard UI:
 <img width="1438" alt="Screenshot 2024-02-02 at 10 30 30 PM" src="https://github.com/ghanashyam-r/grocerystore_flask/assets/138144872/5727565b-3f82-4f82-92dc-b06c143409a3">
 
+DBbrowser for viewing SQLite DB.The passwords of the users are stored with hashing incorporated.
 
-    
+<img width="1311" alt="Screenshot 2024-02-02 at 10 36 21 PM" src="https://github.com/ghanashyam-r/grocerystore_flask/assets/138144872/c8db1157-25e1-4bc2-9a30-ed8887323a74">
